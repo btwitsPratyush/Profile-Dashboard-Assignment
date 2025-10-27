@@ -71,12 +71,5 @@ src/
 - **Styling**: Rounded corners, backdrop blur, subtle borders, and shadow effects
 - **Interactions**: Tab switching, image carousel navigation, and hover animations
 
-## Deployment
 
-This project can be deployed to any static hosting service:
 
-- **Vercel**: Import project and deploy with zero configuration
-
-## License
-
-MIT
